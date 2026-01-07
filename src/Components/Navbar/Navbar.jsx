@@ -24,7 +24,7 @@ export default function Navbar() {
             className="flex items-center gap-2 font-bold text-xl text-white hover:text-blue-400 transition-colors"
           >
             <img
-              src="/Logo/codycoai_logo.jpg"
+              src="./Logo/codycoai_logo.jpg"
               alt="Codyco"
               className="w-8 h-8 rounded-lg"
             />
@@ -87,7 +87,7 @@ export default function Navbar() {
           className="flex items-center gap-2 font-bold text-xl text-white"
         >
           <img
-            src="/Logo/codycoai_logo.jpg"
+            src="./Logo/codycoai_logo.jpg"
             alt="Codyco"
             className="w-8 h-8 rounded-lg"
           />

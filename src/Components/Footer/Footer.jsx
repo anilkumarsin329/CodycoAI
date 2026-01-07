@@ -43,7 +43,7 @@ export default function Footer() {
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <img
-                src="/Logo/codycoai_logo.jpg"
+                src="./Logo/codycoai_logo.jpg"
                 alt="Codyco"
                 className="w-6 sm:w-7 h-6 sm:h-7"
               />

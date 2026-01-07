@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Background Video */}
       <video
-        src="/Home/animation_vedio.mp4"
+        src="./Home/animation_vedio.mp4"
         autoPlay
         loop
         muted
@@ -83,10 +83,10 @@ export default function Home() {
             </p>
 
             <div className="flex flex-wrap items-center gap-4 sm:gap-6 opacity-80">
-              <img src="/Home/home1.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 1" />
-              <img src="/Home/home2.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 2" />
-              <img src="/Home/home3.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 3" />
-              <img src="/Home/home4.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 4" />
+              <img src="./Home/home1.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 1" />
+              <img src="./Home/home2.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 2" />
+              <img src="./Home/home3.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 3" />
+              <img src="./Home/home4.jpg" className="h-8 sm:h-10 object-contain" alt="Partner 4" />
             </div>
           </div>
 
